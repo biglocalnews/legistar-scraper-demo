@@ -10,7 +10,7 @@ to scraping Legistar. Part of Agenda Watch, a Big Local News project.
 * cd legistar-scraper-demo
 * `pipenv install`
 
-# Run
+## Run
 
 ```
 python scrape_legistar.py
